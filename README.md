@@ -1,5 +1,7 @@
 🐻🐍🦅 Jokenpô Animal
 
+https://jokenpo-theta-cyan.vercel.app/
+
 Um jogo de Pedra, Papel e Tesoura para dois jogadores, com tema animal e interface minimalista. Desenvolvido a partir de um script Python (Google Colab) e convertido em uma página web interativa, pronta para publicar no GitHub Pages.
 
 Sobre o projeto
